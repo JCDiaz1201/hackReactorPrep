@@ -1,3 +1,0 @@
-# hackreactorprep
-# hackReactorPC
-# hackReactorPC
